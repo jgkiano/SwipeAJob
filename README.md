@@ -2,7 +2,7 @@
 
 ## A job finding app built using React Native
 
-Search for developer jobs in your area and swipe left or right on each card for the job you like or dislike (yes, just likle tinder..)
+Search for developer jobs in your area and swipe left or right on each card for the job you like or dislike (yes, just like tinder..)
 
 ## Built With
 
